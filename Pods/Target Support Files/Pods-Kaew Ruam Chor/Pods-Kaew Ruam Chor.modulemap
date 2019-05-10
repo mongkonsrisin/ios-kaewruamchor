@@ -1,0 +1,6 @@
+framework module Pods_Kaew_Ruam_Chor {
+  umbrella header "Pods-Kaew Ruam Chor-umbrella.h"
+
+  export *
+  module * { export * }
+}
